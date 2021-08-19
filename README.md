@@ -107,6 +107,6 @@ Um super thanks 👏 para Leonardo Leitão e equipe Cod3r Cursos.
 
 ## 📝 Licença 
 
-The [MIT License](https://github.com/AndersonD-art/PomoDoro/blob/master/LICENSE)(MIT)
+The [MIT License](https://github.com/AndersonD-art/PomoDoro_GetX/blob/master/LICENSE)(MIT)
 
 Copyright :copyright: 2021 - PomoDoro
